@@ -17,4 +17,4 @@ The results in this experiment suggest that conditional adversarial networks are
 
 ## Credits
 [Phillipi Isola](https://github.com/phillipi)
-Thanks for the wonderfull paper on Image-Image translation using Conditional Adversarial Network
+Thanks for the wonderful paper on Image-Image translation using Conditional Adversarial Network
